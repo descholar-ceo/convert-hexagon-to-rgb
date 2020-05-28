@@ -1,0 +1,11 @@
+{
+  "name": "convert-hexagon-to-rgb",
+  "version": "1.0.0",
+  "description": "This is a project of converting colors (from hex to rgb and vice versa)",
+  "main": "app.js",
+  "repository": "https://github.com/descholar-ceo/convert-hexagon-to-rgb",
+  "author": "descholar <emmanuellamugi@gmail.com>",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {}
+}
